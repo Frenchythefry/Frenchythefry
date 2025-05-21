@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Frenchythefry
-- 👀 I’m interested in games, books, and DnD
-- 🌱 I’m currently learning Unity + C#
 - 📫 How to reach me - discord: frenchythefry
 
 <!---
